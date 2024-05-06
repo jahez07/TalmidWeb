@@ -1,4 +1,4 @@
-/* MainScreen */
+/ MainScreen */
 
 position: relative;
 width: 1440px;
