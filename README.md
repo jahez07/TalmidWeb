@@ -3,4 +3,6 @@
  A Dev project to develop application for Biosis Talmid House
 
 ## Flutter Commands for MacOS
-1. 
+
+Make sure you have Rosetta Installed.
+1. sudo softwareupdate --install-rosetta --agree-to-license
