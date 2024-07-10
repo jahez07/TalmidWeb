@@ -6,6 +6,7 @@
 
 Make sure you have Rosetta Installed.
 1. sudo softwareupdate --install-rosetta --agree-to-license <br>
+2. download the flutter sdk from <href>https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_arm64_3.22.2-stable.zip<href>
 
 export PATH=$HOME/Jahez/FLutterDev/flutter/bin:PATH <br>
 export PATH=$HOME/ .gem/bin:$PATH<br>
