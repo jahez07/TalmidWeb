@@ -6,3 +6,5 @@
 
 Make sure you have Rosetta Installed.
 1. sudo softwareupdate --install-rosetta --agree-to-license
+export PATH=$HOME/Jahez/FLutterDev/flutter/bin:PATH
+export PATH=$HOME/ .gem/bin:$PATH
