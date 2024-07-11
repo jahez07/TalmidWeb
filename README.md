@@ -10,3 +10,6 @@ Make sure you have Rosetta Installed.
 
 export PATH=$HOME/Jahez/FLutterDev/flutter/bin:PATH <br>
 export PATH=$HOME/ .gem/bin:$PATH<br>
+
+
+<img width="781" alt="image" src="https://github.com/jahez07/TalmidWeb/assets/61622091/b5d5fd04-d71b-43c6-9abb-d83fab08069b">
